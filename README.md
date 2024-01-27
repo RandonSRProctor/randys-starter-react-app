@@ -16,8 +16,10 @@ _Note: Quickly find all places to set up by searching `TODO` in this project_
 
 1. Title your document (Title tag in index.html)
 2. Title your package (`name` property in package.json)
-3. Change this README
-4. Set up git (`git init`)
+3. Re-run `npm install`
+4. Change this README
+5. Change upstream and all relevant git info.
+6. Seriously, do #5. Push to this branch and become my enemy ☠️
 
 # What is not set up?
 
